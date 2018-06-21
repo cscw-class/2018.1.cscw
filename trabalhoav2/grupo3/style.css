@@ -1,0 +1,38 @@
+html{
+  height: 100%;
+  overflow: auto;
+}
+
+#bbody h1, #bbody p{
+  color: #ffffff !important;
+}
+
+.jumbotron p {
+  margin-top: 25px;
+  text-align: justify;
+}
+
+#bbody {
+  background-image: url('imagem/verde.jpeg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 100%;
+  overflow: auto;
+
+}
+
+.jumbotron {
+  background-image: url('imagem/quadro-negro.jpg');
+  background-size: cover;
+  border: 6px solid #ffa31a;
+  height: 550px;
+}
+
+.botao {
+  float: left;
+  margin: 25px 15px 0;
+
+
+
+}
